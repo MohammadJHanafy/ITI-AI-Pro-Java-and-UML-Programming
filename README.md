@@ -1,2 +1,5 @@
 # ITI-AI-Pro-Java-and-UML-Programming
-Codes related to the Java and UML Programming Course
+
+Final Project of the JUPAI course inculding a demo video.
+
+Assignments and Lab exercies implementation during the course.
